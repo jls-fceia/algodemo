@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/algodemo.dir/main.cpp.o -o algodemo
